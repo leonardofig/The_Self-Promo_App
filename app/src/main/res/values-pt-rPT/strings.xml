@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicação de Autopromoção</string>
+    <string name="label_activity_preview">Visualização da mensagem</string>
+    <string name="hint_contact_name">Nome do Contacto</string>
+    <string name="hint_contact_number">Número do Contacto</string>
+    <string name="hint_my_name">O meu nome de exibição</string>
+    <string name="check_box_text_include_junior">Incluir \'Junior\'</string>
+    <string name="hint_available_from">Disponível a partir da data</string>
+    <string name="button_text_preview">Visualizar Mensagem</string>
+    <string name="button_text_send">Enviar Mensagem</string>
+    <string name="check_box_text_immediate_start">"Início imediato "</string>
+</resources>
